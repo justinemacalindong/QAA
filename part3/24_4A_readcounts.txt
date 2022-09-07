@@ -1,0 +1,7 @@
+Total number of reads that are mapped: 20873680
+Number of primary reads that are mapped: 19780644
+Number of secondary reads that are mapped: 1093036
+Total number of reads that are unmapped: 711046
+Number of primary reads that are unmapped: 710220
+Number of secondary reads that are unmapped: 826
+Total number of reads: 21584726
